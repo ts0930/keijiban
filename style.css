@@ -1,0 +1,126 @@
+body{
+    width:1635px;
+}
+
+
+
+header ul li{
+    list-style-type: none;
+    color: white;
+    float: left;
+    line-height: 50px;
+    padding-right: 30px;
+    }
+
+.menu{
+        width: 100%;
+        background-color: black;
+        height: 50px;
+    }
+
+img .logo{
+        float: left;
+        padding-left: 40px;
+    }
+
+ .left{
+        float:left;
+        width: 70%;
+    }
+.left form{
+    width: 98%;
+    border:3px #ebebeb solid;
+}
+
+.left .text{
+    margin-top: 25px;
+}
+
+.left h1{
+    border-left: black solid 5px;
+    border-bottom: gray solid 2px;
+    margin-right: 40px;
+}
+.left h2{
+    border-left: red solid 5px  ;
+    padding-top: 5px;
+    line-height:0.9em;
+    margin-left: 10px;
+    
+}
+.left h3{
+    border-bottom:  lightgray solid 2px;
+    margin-top: 10px;
+    
+}
+.left .kiji{
+background-color: #fbfbfb;
+height: 110px;
+width: 96%;
+margin-bottom: 10px;
+border:3px #ebebeb solid;
+padding: 10px 10px;
+}
+.contents{
+    margin: 5px;
+    padding-bottom: 5px;
+}
+.handlename{
+    font-size: 12px;
+}
+
+form{
+    width: 65%;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+    height: 500px;
+    padding-top: 1px;
+}
+form input{
+   margin-top: 10px;
+   height: 26px;
+}
+
+form textarea{
+    margin-top: 10px;
+}
+
+.submit{
+    border-radius: 5px;
+    color: white;
+    background-color:gray;
+    border-bottom: solid black 2px;
+    border: 1px solid lightgray;
+}
+
+
+
+.right{
+    float:left;
+    width: 30%;
+}
+
+.right h2{
+    border-bottom: lightgray solid 2px;
+    margin-top: 33px;
+    margin-left: 10px;
+}
+
+.right li{
+    list-style-type: none;
+    line-height: 2.5;
+}
+
+
+footer{
+    clear: left;
+    width: 102.5%;
+    bottom: 0;
+    text-align: center;
+    left: 0px;
+    line-height: 60px;
+    color: white;
+    background-color: black;
+    height: 60px;
+    margin-top: 950px;
+}
